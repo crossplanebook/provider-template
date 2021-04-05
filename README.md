@@ -1,3 +1,5 @@
+# This repository is DEPRECATED. It has been moved to [`crossplane/provider-template`](https://github.com/crossplane/provider-template), where it will continue to be maintained.
+
 # provider-template
 
 `provider-template` is a minimal [Crossplane](https://crossplane.io/) Provider
